@@ -1053,7 +1053,7 @@ section.apply-now .item p {
 }
 
 .accordions {
-  border-radius: 20px;
+  border-radius: 10px;
   padding: 40px;
   background-color: #fff;
   margin-left: 45px;
@@ -1258,7 +1258,7 @@ our facts
 */
 
 section.our-facts {
-  background-image: url(../images/facts-bg.jpg);
+  background-image: url(../images/VTimage/lobby-sekolah.jpg);
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -1308,7 +1308,7 @@ section.our-facts h2 {
 section.our-facts .video {
   text-align: center;
   margin-left: 70px;
-  background-image: url(../images/video-item-bg.jpg);
+  background-image: url(../images/VTimage/gedung-technopark.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
