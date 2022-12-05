@@ -1,0 +1,20 @@
+<html>
+
+<head>
+    <title>Slideshow using JavaScript</title>
+    <script src="./assets/js/MySlideShow.js"></script>
+</head>
+
+<body>
+    <button onclick="stop_slideshow()">Stop</button>
+    <button onclick="start_slideshow()">Start</button>
+    <img class="slideshow_images" src="./assets/images/VTimage/gedung-technopark.jpg">
+    <img class="slideshow_images" src="./assets/images/VTimage/gerbang-depan.jpg">
+    <img class="slideshow_images" src="./assets/images/VTimage/kooperasi-sekolah.jpg">
+    <img class="slideshow_images" src="./assets/images/VTimage/masjid-sekolah.jpg">
+    <script>
+        slideshow("slideshow_images", 1500);
+    </script>
+</body>
+
+</html>
