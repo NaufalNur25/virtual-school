@@ -1025,7 +1025,7 @@ apply now
 */
 
 section.apply-now {
-  background-image: url(../images/sekolahsmkn4bandung.JPG);
+  background-image: url(../images/gedung-smkn4.jpg);
   background-position: center top;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -1458,7 +1458,7 @@ heading page
 */
 
 section.heading-page {
-  background-image: url(../images/sekolahsmkn4bdg.JPG);
+  background-image: url(../images/gedung-smkn4.jpg);
   background-position: center top;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1814,13 +1814,6 @@ responsive
 }
 
 @media (max-width: 767px) {
-  .buttonVT {
-    display: none;
-  }
-
-  .buttonVT a{
-    display: none;
-  }
 
   .sub-header .left-content p {
     display: none;
